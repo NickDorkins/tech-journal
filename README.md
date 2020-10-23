@@ -12,6 +12,10 @@ Here you will find notes about new concepts and discoveries found during the lea
   - Websites?
   - Google search Terms?
 
+> `'use strict';`
+> ## 15-Minutes Lost = ASK FOR HELP!!!
+> ## TIME Box Everything!!! (30-Minutes = Disconnect from Tech)
+
 10/22/20 - 
 
 Today I learned about [Postgres and SQL](./Postgres-and-SQL.md), I am still fuzzy on a lot of the proccesses but I will be working on them again tomorrow (10/23/20). More notes to follow.
